@@ -60,6 +60,6 @@ docker images
 ```
 ---
 - Copy the instance public IP and paste it into the Chrome browser
--
+-![Image Alt Text](https://github.com/vedant-07-git/Docker-Set-Up/blob/aff415bdc7eb393efd91e0c0ab80e93c40f365b4/Screenshot%202026-06-05%20152708.png) 
 
 
