@@ -68,4 +68,5 @@ docker images
 ---
   
 # 🎉Congratulations! You have successfully set up Docker and run your first application.
+Note: Docker version 29.5.3, build d1c06ef
 
