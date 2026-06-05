@@ -39,7 +39,7 @@ sudo apt update
    ```
 ---
 ## Run Your First Container
--📌pull image name from heare : `mukunddeo9325/super-mario `
+📌pull image name from heare : `mukunddeo9325/super-mario `
 
 - pull images from docker registory
 - `docker pull <images name>` to pull the images replace image name as : nginx, httpd, mysql, ubuntu, ...etc
