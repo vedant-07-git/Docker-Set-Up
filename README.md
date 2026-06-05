@@ -8,7 +8,7 @@ Set up and install Docker Engine from Docker's
    - https://docs.docker.com/engine/install/ubuntu/
 ---
 ## 1. Install using the apt repository
--Before you install Docker Engine for the first time on a new host machine, you need to set up the Docker apt repository. Afterward, you can install and update Docker from the repository.
+  - Before you install Docker Engine for the first time on a new host machine, you need to set up the Docker apt repository. Afterward, you can install and update Docker from the repository.
    - Set up Docker's apt repository.
 
 ```
@@ -59,7 +59,13 @@ docker ps
 docker images
 ```
 ---
-- Copy the instance public IP and paste it into the Chrome browser
--![Image Alt Text](https://github.com/vedant-07-git/Docker-Set-Up/blob/aff415bdc7eb393efd91e0c0ab80e93c40f365b4/Screenshot%202026-06-05%20152708.png) 
+- Copy the instance public IP and paste it into the Chrome browser.
+  
+![Image Alt Text](https://github.com/vedant-07-git/Docker-Set-Up/blob/aff415bdc7eb393efd91e0c0ab80e93c40f365b4/Screenshot%202026-06-05%20152708.png) 
 
+- After running this 'docker ps' command, you see something like this screenshot and see the PORTS section, copy this number after :32768
+  and paste it in front of your Public IP (e.g., PublicIPs: 13.235.134.245:32768), the final IP looks like this.
+---
+  
+# 🎉Congratulations! You have successfully set up Docker and run your first application.
 
